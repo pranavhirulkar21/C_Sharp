@@ -1,0 +1,13 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.genruntimeconfig.cache

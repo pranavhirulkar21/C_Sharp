@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Solutions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{845C182B-7A7B-4544-95C0-759C093F225C}|Strings\\Strings.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\solutions\\strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845C182B-7A7B-4544-95C0-759C093F225C}|Strings\\Strings.csproj|solutionrelative:strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F6D9B9-AFF2-4BBE-93FA-CEE836B6E267}|UserInput\\UserInput.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\solutions\\userinput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F6D9B9-AFF2-4BBE-93FA-CEE836B6E267}|UserInput\\UserInput.csproj|solutionrelative:userinput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A533208-6B9C-4A17-AB85-617F45B28C1C}|TypeCasting\\TypeCasting.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\solutions\\typecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A533208-6B9C-4A17-AB85-617F45B28C1C}|TypeCasting\\TypeCasting.csproj|solutionrelative:typecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D31C736-0F94-46C0-B02C-AA86991665C5}|Arrays\\Arrays.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\solutions\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D31C736-0F94-46C0-B02C-AA86991665C5}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4108CC1-B006-4760-8B6E-EF8D452F047D}|Output\\Output.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\solutions\\output\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4108CC1-B006-4760-8B6E-EF8D452F047D}|Output\\Output.csproj|solutionrelative:output\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Solutions\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Solutions\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:39:12.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Solutions\\Strings\\Program.cs",
+              "RelativeDocumentMoniker": "Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Solutions\\Strings\\Program.cs",
+              "RelativeToolTip": "Strings\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:06:14.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Solutions\\UserInput\\Program.cs",
+              "RelativeDocumentMoniker": "UserInput\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Solutions\\UserInput\\Program.cs",
+              "RelativeToolTip": "UserInput\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:38:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Solutions\\TypeCasting\\Program.cs",
+              "RelativeDocumentMoniker": "TypeCasting\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Solutions\\TypeCasting\\Program.cs",
+              "RelativeToolTip": "TypeCasting\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:25:55.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Solutions\\Output\\Program.cs",
+              "RelativeDocumentMoniker": "Output\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Solutions\\Output\\Program.cs",
+              "RelativeToolTip": "Output\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:20:52.728Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

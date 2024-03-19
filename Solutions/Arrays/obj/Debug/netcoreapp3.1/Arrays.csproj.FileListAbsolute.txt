@@ -1,0 +1,13 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Solutions\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
