@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\bin\Debug\netcoreapp3.1\MultiDArray.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\bin\Debug\netcoreapp3.1\MultiDArray.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\bin\Debug\netcoreapp3.1\MultiDArray.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\bin\Debug\netcoreapp3.1\MultiDArray.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\bin\Debug\netcoreapp3.1\MultiDArray.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\bin\Debug\netcoreapp3.1\MultiDArray.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Arrays\MultiDArray\obj\Debug\netcoreapp3.1\MultiDArray.genruntimeconfig.cache
