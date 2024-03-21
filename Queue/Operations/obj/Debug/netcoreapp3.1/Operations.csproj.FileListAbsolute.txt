@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\obj\Debug\netcoreapp3.1\Operations.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Queue\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache
