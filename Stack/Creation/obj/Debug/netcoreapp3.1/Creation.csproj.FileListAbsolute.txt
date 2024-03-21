@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\bin\Debug\netcoreapp3.1\Creation.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\bin\Debug\netcoreapp3.1\Creation.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\bin\Debug\netcoreapp3.1\Creation.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\bin\Debug\netcoreapp3.1\Creation.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\bin\Debug\netcoreapp3.1\Creation.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\bin\Debug\netcoreapp3.1\Creation.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\obj\Debug\netcoreapp3.1\Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\obj\Debug\netcoreapp3.1\Creation.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\obj\Debug\netcoreapp3.1\Creation.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\obj\Debug\netcoreapp3.1\Creation.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\obj\Debug\netcoreapp3.1\Creation.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\obj\Debug\netcoreapp3.1\Creation.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\obj\Debug\netcoreapp3.1\Creation.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Stack\Creation\obj\Debug\netcoreapp3.1\Creation.genruntimeconfig.cache
