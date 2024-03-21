@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessingArrayElements", "AccessingArrayElements\AccessingArrayElements.csproj", "{8D5E3923-9CFD-431F-B874-7202135E1D04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessingArrayElements", "AccessingArrayElements\AccessingArrayElements.csproj", "{8D5E3923-9CFD-431F-B874-7202135E1D04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDArray", "MultiDArray\MultiDArray.csproj", "{58AD2C22-5968-40E6-AC4C-558EB2A078BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiDArray", "MultiDArray\MultiDArray.csproj", "{58AD2C22-5968-40E6-AC4C-558EB2A078BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DArray", "2DArray\2DArray.csproj", "{32DE2637-B70C-4D63-A11E-B5009857266F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2DArray", "2DArray\2DArray.csproj", "{32DE2637-B70C-4D63-A11E-B5009857266F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_2DArray", "3_2DArray\3_2DArray.csproj", "{B0FBAC38-D907-46AA-B579-929C6FDB90FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_2DArray", "3_2DArray\3_2DArray.csproj", "{B0FBAC38-D907-46AA-B579-929C6FDB90FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{36CFD20F-5745-4E2A-BBD8-D88513AD84D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B0FBAC38-D907-46AA-B579-929C6FDB90FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0FBAC38-D907-46AA-B579-929C6FDB90FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0FBAC38-D907-46AA-B579-929C6FDB90FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CFD20F-5745-4E2A-BBD8-D88513AD84D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CFD20F-5745-4E2A-BBD8-D88513AD84D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CFD20F-5745-4E2A-BBD8-D88513AD84D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CFD20F-5745-4E2A-BBD8-D88513AD84D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

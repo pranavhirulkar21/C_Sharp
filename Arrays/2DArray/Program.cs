@@ -15,7 +15,7 @@ namespace _2DArray
             int[][] Arr1 = { new int[] { 2, 4, 3, 5 },
                              new int[] { 1, 8, 6 } };
             // Both the ways of creting Arr and Arr1 are correct!!!!
-
+            
             for(int i=0; i<Arr.Length; i++)
             {
                 Console.WriteLine("Element ["+i+"] Array: ");
@@ -23,10 +23,21 @@ namespace _2DArray
                 {
                     Console.WriteLine(Arr[i][j]+" ");
 
-                    /*
-                     int[,] arr = new int[, ]
-                     */
+                    
+                    // int[,] arr = new int[, ]
+                     
                 }
+        
+            /*
+            for(int i = 0; i < Arr.GetLength(0); i++) {
+                Console.Write("\n Row #{0} Elements :", (i+1));
+                for(int j = 0; j < Arr.GetLength(1); j++)
+                {
+                    Console.Write("{0}\t", (i, j));
+                }
+            }
+            */
+
             }
 
         }
