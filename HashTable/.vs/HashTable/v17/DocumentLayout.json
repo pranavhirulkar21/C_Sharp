@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\HashTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D65DEA8-7D58-4E72-B870-A777C04CBD3C}|Operations\\Operations.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\hashtable\\operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D65DEA8-7D58-4E72-B870-A777C04CBD3C}|Operations\\Operations.csproj|solutionrelative:operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA15C7A3-3373-4CFF-A547-EFBED2F72581}|Creation\\Creation.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\hashtable\\creation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA15C7A3-3373-4CFF-A547-EFBED2F72581}|Creation\\Creation.csproj|solutionrelative:creation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\HashTable\\Operations\\Program.cs",
+              "RelativeDocumentMoniker": "Operations\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\HashTable\\Operations\\Program.cs",
+              "RelativeToolTip": "Operations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:29:38.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\HashTable\\Creation\\Program.cs",
+              "RelativeDocumentMoniker": "Creation\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\HashTable\\Creation\\Program.cs",
+              "RelativeToolTip": "Creation\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T05:13:11.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
