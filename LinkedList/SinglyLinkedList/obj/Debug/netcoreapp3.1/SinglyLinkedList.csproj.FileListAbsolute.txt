@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\bin\Debug\netcoreapp3.1\SinglyLinkedList.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\bin\Debug\netcoreapp3.1\SinglyLinkedList.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\bin\Debug\netcoreapp3.1\SinglyLinkedList.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\bin\Debug\netcoreapp3.1\SinglyLinkedList.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\bin\Debug\netcoreapp3.1\SinglyLinkedList.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\bin\Debug\netcoreapp3.1\SinglyLinkedList.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\LinkedList\SinglyLinkedList\obj\Debug\netcoreapp3.1\SinglyLinkedList.genruntimeconfig.cache

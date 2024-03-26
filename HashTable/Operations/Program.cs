@@ -8,9 +8,9 @@ namespace Operations
         public static void display(Hashtable hashtable) 
         {
             Console.WriteLine("HashTable Contains : ");
-            foreach (var key in hashtable.Keys)
+            foreach (var output in hashtable.Keys)
             {
-                Console.WriteLine(key + " - " + hashtable[key]);
+                Console.WriteLine(output + " - " + hashtable[output]);
             }
             Console.WriteLine();
         }

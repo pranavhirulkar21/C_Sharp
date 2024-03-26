@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\LinkedList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07FFA17A-94A4-4495-A37C-4926C1DB569D}|SinglyLinkedList\\SinglyLinkedList.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\linkedlist\\singlylinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FFA17A-94A4-4495-A37C-4926C1DB569D}|SinglyLinkedList\\SinglyLinkedList.csproj|solutionrelative:singlylinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A44F29A-60A6-4772-AFC6-12D75046B65A}|Operations\\Operations.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\linkedlist\\operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A44F29A-60A6-4772-AFC6-12D75046B65A}|Operations\\Operations.csproj|solutionrelative:operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,24 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\LinkedList\\Operations\\Program.cs",
-              "RelativeDocumentMoniker": "Operations\\Program.cs",
-              "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\LinkedList\\Operations\\Program.cs",
-              "RelativeToolTip": "Operations\\Program.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAuwFUAAAANAAAA",
+              "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\LinkedList\\SinglyLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "SinglyLinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\LinkedList\\SinglyLinkedList\\Program.cs",
+              "RelativeToolTip": "SinglyLinkedList\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwDMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T11:11:25.029Z",
+              "WhenOpened": "2024-03-26T09:10:27.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\LinkedList\\Operations\\Program.cs",
+              "RelativeDocumentMoniker": "Operations\\Program.cs",
+              "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\LinkedList\\Operations\\Program.cs",
+              "RelativeToolTip": "Operations\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAD4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:11:25.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\LinkedList\\Creation\\Program.cs",
               "RelativeDocumentMoniker": "Creation\\Program.cs",
               "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\LinkedList\\Creation\\Program.cs",
               "RelativeToolTip": "Creation\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T10:59:29.221Z",
               "EditorCaption": ""
