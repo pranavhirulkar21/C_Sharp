@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\bin\Debug\netcoreapp3.1\InsertionSort.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\InsertionSort\obj\Debug\netcoreapp3.1\InsertionSort.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\SortingAndSearchingAlgorithms\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache
