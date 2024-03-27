@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\SortingAndSearchingAlgorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75179A6D-0585-4C5D-92F5-EFBA355EF837}|LinearSearch\\LinearSearch.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\sortingandsearchingalgorithms\\linearsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75179A6D-0585-4C5D-92F5-EFBA355EF837}|LinearSearch\\LinearSearch.csproj|solutionrelative:linearsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A421C91-6678-4BEF-94CA-A4F719499AEB}|BinarySearch\\BinarySearch.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\sortingandsearchingalgorithms\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A421C91-6678-4BEF-94CA-A4F719499AEB}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75179A6D-0585-4C5D-92F5-EFBA355EF837}|LinearSearch\\LinearSearch.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\sortingandsearchingalgorithms\\linearsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75179A6D-0585-4C5D-92F5-EFBA355EF837}|LinearSearch\\LinearSearch.csproj|solutionrelative:linearsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{089B6B96-9934-4FD4-BE1D-33302E0DD100}|InsertionSort\\InsertionSort.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\sortingandsearchingalgorithms\\insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\SortingAndSearchingAlgorithms\\BinarySearch\\Program.cs",
               "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
               "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\SortingAndSearchingAlgorithms\\BinarySearch\\Program.cs",
               "RelativeToolTip": "BinarySearch\\Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAYwC8AAAAlAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAuwFsAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T12:59:12.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\SortingAndSearchingAlgorithms\\LinearSearch\\Program.cs",
               "RelativeDocumentMoniker": "LinearSearch\\Program.cs",
@@ -68,8 +68,7 @@
               "RelativeToolTip": "InsertionSort\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:32:30.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T12:32:30.435Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "SelectionSort\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwAYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:24:51.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T12:24:51.907Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "BubbleSort\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:13:46.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T12:13:46.038Z"
             }
           ]
         }

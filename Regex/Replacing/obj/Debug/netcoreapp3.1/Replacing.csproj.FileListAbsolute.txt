@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\bin\Debug\netcoreapp3.1\Replacing.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\bin\Debug\netcoreapp3.1\Replacing.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\bin\Debug\netcoreapp3.1\Replacing.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\bin\Debug\netcoreapp3.1\Replacing.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\bin\Debug\netcoreapp3.1\Replacing.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\bin\Debug\netcoreapp3.1\Replacing.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\obj\Debug\netcoreapp3.1\Replacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\obj\Debug\netcoreapp3.1\Replacing.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\obj\Debug\netcoreapp3.1\Replacing.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\obj\Debug\netcoreapp3.1\Replacing.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\obj\Debug\netcoreapp3.1\Replacing.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\obj\Debug\netcoreapp3.1\Replacing.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\obj\Debug\netcoreapp3.1\Replacing.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Regex\Replacing\obj\Debug\netcoreapp3.1\Replacing.genruntimeconfig.cache
