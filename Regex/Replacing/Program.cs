@@ -35,7 +35,7 @@ namespace Replacing
 
 
             //...3rd example
-            Regex r = new
+            //Regex r = new
         }
     }
 }
