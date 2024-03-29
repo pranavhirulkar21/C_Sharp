@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\bin\Debug\netcoreapp3.1\Conversion.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\bin\Debug\netcoreapp3.1\Conversion.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\bin\Debug\netcoreapp3.1\Conversion.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\bin\Debug\netcoreapp3.1\Conversion.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\bin\Debug\netcoreapp3.1\Conversion.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\obj\Debug\netcoreapp3.1\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\obj\Debug\netcoreapp3.1\Conversion.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\obj\Debug\netcoreapp3.1\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\obj\Debug\netcoreapp3.1\Conversion.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\obj\Debug\netcoreapp3.1\Conversion.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\obj\Debug\netcoreapp3.1\Conversion.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Conversion\obj\Debug\netcoreapp3.1\Conversion.genruntimeconfig.cache

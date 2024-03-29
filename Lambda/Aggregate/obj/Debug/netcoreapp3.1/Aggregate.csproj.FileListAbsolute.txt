@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\bin\Debug\netcoreapp3.1\Aggregate.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\bin\Debug\netcoreapp3.1\Aggregate.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\bin\Debug\netcoreapp3.1\Aggregate.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\bin\Debug\netcoreapp3.1\Aggregate.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\bin\Debug\netcoreapp3.1\Aggregate.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\bin\Debug\netcoreapp3.1\Aggregate.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Aggregate\obj\Debug\netcoreapp3.1\Aggregate.genruntimeconfig.cache

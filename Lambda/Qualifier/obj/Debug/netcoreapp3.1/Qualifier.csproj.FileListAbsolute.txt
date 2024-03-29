@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\bin\Debug\netcoreapp3.1\Qualifier.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\bin\Debug\netcoreapp3.1\Qualifier.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\bin\Debug\netcoreapp3.1\Qualifier.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\bin\Debug\netcoreapp3.1\Qualifier.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\bin\Debug\netcoreapp3.1\Qualifier.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\bin\Debug\netcoreapp3.1\Qualifier.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\obj\Debug\netcoreapp3.1\Qualifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\obj\Debug\netcoreapp3.1\Qualifier.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\obj\Debug\netcoreapp3.1\Qualifier.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\obj\Debug\netcoreapp3.1\Qualifier.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\obj\Debug\netcoreapp3.1\Qualifier.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\obj\Debug\netcoreapp3.1\Qualifier.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\obj\Debug\netcoreapp3.1\Qualifier.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Qualifier\obj\Debug\netcoreapp3.1\Qualifier.genruntimeconfig.cache

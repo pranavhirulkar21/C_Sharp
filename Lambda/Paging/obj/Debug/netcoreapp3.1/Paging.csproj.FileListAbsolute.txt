@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\bin\Debug\netcoreapp3.1\Paging.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\bin\Debug\netcoreapp3.1\Paging.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\bin\Debug\netcoreapp3.1\Paging.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\bin\Debug\netcoreapp3.1\Paging.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\bin\Debug\netcoreapp3.1\Paging.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\bin\Debug\netcoreapp3.1\Paging.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\obj\Debug\netcoreapp3.1\Paging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\obj\Debug\netcoreapp3.1\Paging.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\obj\Debug\netcoreapp3.1\Paging.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\obj\Debug\netcoreapp3.1\Paging.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\obj\Debug\netcoreapp3.1\Paging.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\obj\Debug\netcoreapp3.1\Paging.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\obj\Debug\netcoreapp3.1\Paging.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Paging\obj\Debug\netcoreapp3.1\Paging.genruntimeconfig.cache

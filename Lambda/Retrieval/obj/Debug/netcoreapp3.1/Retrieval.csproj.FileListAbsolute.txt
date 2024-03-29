@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\bin\Debug\netcoreapp3.1\Retrieval.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\bin\Debug\netcoreapp3.1\Retrieval.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\bin\Debug\netcoreapp3.1\Retrieval.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\bin\Debug\netcoreapp3.1\Retrieval.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\bin\Debug\netcoreapp3.1\Retrieval.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\bin\Debug\netcoreapp3.1\Retrieval.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\obj\Debug\netcoreapp3.1\Retrieval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\obj\Debug\netcoreapp3.1\Retrieval.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\obj\Debug\netcoreapp3.1\Retrieval.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\obj\Debug\netcoreapp3.1\Retrieval.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\obj\Debug\netcoreapp3.1\Retrieval.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\obj\Debug\netcoreapp3.1\Retrieval.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\obj\Debug\netcoreapp3.1\Retrieval.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Retrieval\obj\Debug\netcoreapp3.1\Retrieval.genruntimeconfig.cache

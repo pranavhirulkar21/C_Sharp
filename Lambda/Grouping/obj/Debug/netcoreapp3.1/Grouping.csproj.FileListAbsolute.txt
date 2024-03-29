@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\bin\Debug\netcoreapp3.1\Grouping.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\bin\Debug\netcoreapp3.1\Grouping.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\bin\Debug\netcoreapp3.1\Grouping.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\bin\Debug\netcoreapp3.1\Grouping.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\bin\Debug\netcoreapp3.1\Grouping.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\bin\Debug\netcoreapp3.1\Grouping.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\obj\Debug\netcoreapp3.1\Grouping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\obj\Debug\netcoreapp3.1\Grouping.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\obj\Debug\netcoreapp3.1\Grouping.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\obj\Debug\netcoreapp3.1\Grouping.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\obj\Debug\netcoreapp3.1\Grouping.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\obj\Debug\netcoreapp3.1\Grouping.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\obj\Debug\netcoreapp3.1\Grouping.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\Grouping\obj\Debug\netcoreapp3.1\Grouping.genruntimeconfig.cache

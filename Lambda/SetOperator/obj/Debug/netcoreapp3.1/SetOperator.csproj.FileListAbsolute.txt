@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\bin\Debug\netcoreapp3.1\SetOperator.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\bin\Debug\netcoreapp3.1\SetOperator.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\bin\Debug\netcoreapp3.1\SetOperator.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\bin\Debug\netcoreapp3.1\SetOperator.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\bin\Debug\netcoreapp3.1\SetOperator.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\bin\Debug\netcoreapp3.1\SetOperator.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Lambda\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.genruntimeconfig.cache
