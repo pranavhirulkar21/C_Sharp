@@ -6,6 +6,14 @@ namespace SetOperator
 {
     internal class Program
     {
+        public void Display<T>(IEnumerable<T> collection)
+        {
+            foreach (var item in collection)
+            {
+                Console.WriteLine(item);
+            }
+        }
+
         static void Main(string[] args)
         {
             List<int> numbers1 = new List<int> { 1, 2, 3, 4, 5};
@@ -30,6 +38,10 @@ namespace SetOperator
 
             Console.WriteLine("\nExcept:");
             foreach (int i in except) Console.WriteLine(i);
+
+            Console.WriteLine("\n\n");
+
+            
 
 
 

@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\bin\Debug\netcoreapp3.1\tryCatch.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\tryCatch\obj\Debug\netcoreapp3.1\tryCatch.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\bin\Debug\netcoreapp3.1\customException.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\bin\Debug\netcoreapp3.1\customException.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\bin\Debug\netcoreapp3.1\customException.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\bin\Debug\netcoreapp3.1\customException.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\bin\Debug\netcoreapp3.1\customException.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\bin\Debug\netcoreapp3.1\customException.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\obj\Debug\netcoreapp3.1\customException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\obj\Debug\netcoreapp3.1\customException.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\obj\Debug\netcoreapp3.1\customException.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\obj\Debug\netcoreapp3.1\customException.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\obj\Debug\netcoreapp3.1\customException.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\obj\Debug\netcoreapp3.1\customException.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\obj\Debug\netcoreapp3.1\customException.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Exception\customException\obj\Debug\netcoreapp3.1\customException.genruntimeconfig.cache
