@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\bin\Debug\netcoreapp3.1\ActionDelegate.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\Delegate\ActionDelegate\obj\Debug\netcoreapp3.1\ActionDelegate.genruntimeconfig.cache

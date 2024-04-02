@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Lambda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EE63EE4-7025-4188-AF5B-BCED5B3CE2F0}|Filtering\\Filter.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\lambda\\filtering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EE63EE4-7025-4188-AF5B-BCED5B3CE2F0}|Filtering\\Filter.csproj|solutionrelative:filtering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD37C6D8-CA7C-4F6C-9AA5-DCE003C1A048}|Aggregate\\Aggregate.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\lambda\\aggregate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD37C6D8-CA7C-4F6C-9AA5-DCE003C1A048}|Aggregate\\Aggregate.csproj|solutionrelative:aggregate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FAC40F4-5208-416C-B6C4-B8284522514D}|Sorting\\Sort.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\lambda\\sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC40F4-5208-416C-B6C4-B8284522514D}|Sorting\\Sort.csproj|solutionrelative:sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{204E6FE8-94AA-4D75-B405-C682C05B7C65}|SetOperator\\SetOperator.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\lambda\\setoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,12 +31,16 @@
       "RelativeMoniker": "D:0:0:{7A72F583-BA74-4A0D-BAF5-38B651B1E191}|Grouping\\Group.csproj|solutionrelative:grouping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7EE63EE4-7025-4188-AF5B-BCED5B3CE2F0}|Filtering\\Filter.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\lambda\\filtering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE63EE4-7025-4188-AF5B-BCED5B3CE2F0}|Filtering\\Filter.csproj|solutionrelative:filtering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9277E4E4-0715-476B-9A6F-25118A459933}|Conversion\\Conversion.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\lambda\\conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9277E4E4-0715-476B-9A6F-25118A459933}|Conversion\\Conversion.csproj|solutionrelative:conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FAC40F4-5208-416C-B6C4-B8284522514D}|Sorting\\Sort.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\lambda\\sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FAC40F4-5208-416C-B6C4-B8284522514D}|Sorting\\Sort.csproj|solutionrelative:sorting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD37C6D8-CA7C-4F6C-9AA5-DCE003C1A048}|Aggregate\\Aggregate.csproj|c:\\users\\pranav hirulkar\\onedrive\\desktop\\c#\\lambda\\aggregate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD37C6D8-CA7C-4F6C-9AA5-DCE003C1A048}|Aggregate\\Aggregate.csproj|solutionrelative:aggregate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Lambda\\Qualifier\\Program.cs",
               "RelativeDocumentMoniker": "Qualifier\\Program.cs",
@@ -74,11 +74,12 @@
               "RelativeToolTip": "Qualifier\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T06:49:52.016Z"
+              "WhenOpened": "2024-03-29T06:49:52.016Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Lambda\\Retrieval\\Program.cs",
               "RelativeDocumentMoniker": "Retrieval\\Program.cs",
@@ -86,11 +87,12 @@
               "RelativeToolTip": "Retrieval\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T06:44:51.203Z"
+              "WhenOpened": "2024-03-29T06:44:51.203Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Lambda\\Aggregate\\Program.cs",
               "RelativeDocumentMoniker": "Aggregate\\Program.cs",
@@ -98,24 +100,24 @@
               "RelativeToolTip": "Aggregate\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T06:38:26.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T06:38:26.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Lambda\\Grouping\\Program.cs",
               "RelativeDocumentMoniker": "Grouping\\Program.cs",
               "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Lambda\\Grouping\\Program.cs",
               "RelativeToolTip": "Grouping\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAgAAAAwAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA+wAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T06:10:48.583Z"
+              "WhenOpened": "2024-03-29T06:10:48.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Lambda\\Select\\Program.cs",
               "RelativeDocumentMoniker": "Select\\Program.cs",
@@ -123,11 +125,12 @@
               "RelativeToolTip": "Select\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T05:56:32.149Z"
+              "WhenOpened": "2024-03-29T05:56:32.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Lambda\\Filtering\\Program.cs",
               "RelativeDocumentMoniker": "Filtering\\Program.cs",
@@ -140,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Lambda\\Paging\\Program.cs",
               "RelativeDocumentMoniker": "Paging\\Program.cs",
@@ -148,24 +151,25 @@
               "RelativeToolTip": "Paging\\Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAUwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T07:03:16.294Z"
+              "WhenOpened": "2024-03-29T07:03:16.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Lambda\\SetOperator\\Program.cs",
               "RelativeDocumentMoniker": "SetOperator\\Program.cs",
               "ToolTip": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Lambda\\SetOperator\\Program.cs",
               "RelativeToolTip": "SetOperator\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCAAAAA8AAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T06:52:33.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pranav Hirulkar\\OneDrive\\Desktop\\C#\\Lambda\\Sorting\\Program.cs",
               "RelativeDocumentMoniker": "Sorting\\Program.cs",
@@ -173,7 +177,8 @@
               "RelativeToolTip": "Sorting\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T06:03:31.962Z"
+              "WhenOpened": "2024-03-29T06:03:31.962Z",
+              "EditorCaption": ""
             }
           ]
         }
