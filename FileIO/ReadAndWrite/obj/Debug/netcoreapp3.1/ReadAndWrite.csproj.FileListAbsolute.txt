@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.genruntimeconfig.cache

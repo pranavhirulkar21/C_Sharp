@@ -1,0 +1,14 @@
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\bin\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.exe
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\bin\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.deps.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\bin\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.runtimeconfig.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\bin\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.runtimeconfig.dev.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\bin\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\bin\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\obj\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\obj\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.AssemblyInfoInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\obj\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.AssemblyInfo.cs
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\obj\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\obj\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.sourcelink.json
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\obj\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.dll
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\obj\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.pdb
+C:\Users\Pranav Hirulkar\OneDrive\Desktop\C#\FileIO\ReadAndWriteUsingFileClass\obj\Debug\netcoreapp3.1\ReadAndWriteUsingFileClass.genruntimeconfig.cache
